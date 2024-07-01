@@ -4,3 +4,6 @@ This script is designed to be kept in the download folder. Once images are downl
 python FuckWebp.py
 
 to convert every WebP into PNG.
+
+You can easily execute this command by navigating to the download folder (if the script is present)
+and entering the command in the directory file path, then pressing Enter on the keyboard.
