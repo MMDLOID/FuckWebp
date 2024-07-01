@@ -1,7 +1,6 @@
-FuckWebp is a simple script that allow user to convert every webp image file found inside the same folder as the script.
-This script was designed to keep in the download folder.
-once images are download, execute
+FuckWebp is a simple script that allows users to convert every WebP image file found inside the same folder as the script. 
+This script is designed to be kept in the download folder. Once images are downloaded, execute:
 
-Python Fuckweb.py
+python FuckWebp.py
 
-to convert every WebP into Png.
+to convert every WebP into PNG.
